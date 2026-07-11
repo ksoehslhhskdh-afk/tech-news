@@ -7,6 +7,20 @@
 <title>Tech News</title>
 
 <style>
+    nav{
+    margin-top:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:8px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#ffd43b;
+}
 body{
     margin:0;
     font-family:Arial,sans-serif;
